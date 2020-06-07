@@ -33,7 +33,7 @@ def int_input(overlay_info='',main_info='',traceback_info=''):
 def int_limited_input(limitationkey,overlay_info='',main_info='',traceback_info=''):
     limitation_list=limit_splice(limitationkey)
     for i in range(len(limitation_list)):
-
+        pass
 #-----------------------------------------------------------------------
 def float_input(overlay_info='',main_info='',traceback_info=''):
     if overlay_info!='':
