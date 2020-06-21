@@ -15,8 +15,8 @@ This module provides you with various types of _user safe input functions_ for P
 
 /further help on the functions and their attributes can be found using the help() function
 
-To import this as extern module use
-  from <path> import <function>   #import one or more functions
+To import this as extern module use                                                                           
+  from <path> import <function>   #import one or more functions                                                  
   from <path> import *            #import every function
 
 To import this as global module, include this module under
