@@ -1,4 +1,4 @@
-# python_advanced_input
+# PyInput
 PyInput module for Python 3.0 version 1.3
 
 This module provides you with various types of _user safe input functions_ for Python 3.0:
