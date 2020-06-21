@@ -3,7 +3,7 @@ PyInput module for Python 3.0 version 1.3
 
 This module provides you with various types of _user safe input functions_ for Python 3.0:
 
-  intInput(overlay_info='',main_info='',traceback_info='')
+  intInput(overlay_info='',main_info='',traceback_info='')                                     
   floatInput(overlay_info='',main_info='',traceback_info='')
   strInput(overlay_info='',main_info='',traceback_info='')
 
