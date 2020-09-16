@@ -24,3 +24,5 @@ To import this as global module, include this module under
 After then you can import this module as global module                                                
   from PyInput import <function>  #import one or more functions                                                        
   from PyInput import *           #import every function
+
+test
