@@ -26,3 +26,4 @@ After then you can import this module as global module
   from PyInput import *           #import every function
 
 test
+zweiter Test
